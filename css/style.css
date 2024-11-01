@@ -1,0 +1,52 @@
+#header {
+	text-align: center ;
+	width:100%;
+}
+#eProductInfo {
+	text-align: center;
+	
+}
+#adminPanel {
+	
+	
+}
+.header_lg {
+	font-size: 13px;	
+}
+.shortcodeinput {
+	padding-top:3px;
+	padding-bottom: 3px;
+}
+#eBanner {
+	float:right;
+	width:300px;
+	text-align: right;
+}
+#eLogo {
+	height:70px;
+	padding-top:15px;
+	padding-bottom:15px;
+	
+
+}
+.eAdvert {
+	padding-top:8px;
+	padding-bottom:8px;
+	
+}
+.savebtn{
+	margin-bottom:9px;
+}
+#eBody {
+	margin-top:25px;
+
+}
+
+.thumbnail {
+	padding:5px;
+}
+
+#upgradeTodayLink {
+	padding-bottom:5px;
+	text-decoration:underline;
+}
